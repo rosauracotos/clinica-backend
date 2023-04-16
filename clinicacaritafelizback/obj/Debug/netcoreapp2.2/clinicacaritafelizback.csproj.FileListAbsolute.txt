@@ -1,0 +1,14 @@
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\bin\Debug\netcoreapp2.2\clinicacaritafelizback.deps.json
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\bin\Debug\netcoreapp2.2\clinicacaritafelizback.runtimeconfig.json
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\bin\Debug\netcoreapp2.2\clinicacaritafelizback.runtimeconfig.dev.json
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\bin\Debug\netcoreapp2.2\clinicacaritafelizback.dll
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\bin\Debug\netcoreapp2.2\clinicacaritafelizback.pdb
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.csproj.AssemblyReference.cache
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.csproj.CoreCompileInputs.cache
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.RazorAssemblyInfo.cache
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.RazorAssemblyInfo.cs
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.AssemblyInfoInputs.cache
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.AssemblyInfo.cs
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.RazorTargetAssemblyInfo.cache
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.dll
+C:\Users\51935\source\repos\clinicacaritafelizback\clinicacaritafelizback\obj\Debug\netcoreapp2.2\clinicacaritafelizback.pdb
